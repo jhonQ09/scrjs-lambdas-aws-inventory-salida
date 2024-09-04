@@ -1,0 +1,1 @@
+# scrjs-lambdas-aws-inventory-salida
